@@ -1,0 +1,144 @@
+{
+    "basics": {
+        "name": "Shannon Saylor",
+        "label": "Regional Operations Manager",
+        "picture": "http://i.imgur.com/j1M5qLO.jpg",
+        "email": "shansaylor@gmail.com",
+        "phone": "(252) 544-7171",
+        "website": "http://shangriffin.github.io",
+        "location": {
+            "address": "445 Artisan Way",
+            "postalCode": "MA 02145",
+            "city": "Boston",
+            "countryCode": "US",
+            "region": "massachusetts"
+        },
+        "profiles": [{
+            "network": "GitHub",
+            "username": "shangriffin",
+            "url": "https://github.com/shangriffin"
+        },
+        {
+            "network": "LinkedIn",
+            "username": "shansaylor",
+            "url": "https://www.linkedin.com/in/shannon-saylor-83991987"
+        },
+        {
+            "network": "Twitter",
+            "username": "dggriffin",
+            "url": "https://twitter.com/GriffinGreyson"
+        }]
+    },
+    "work": [{
+        "company": "Land O' Lakes, Inc.",
+        "position": "Retail Operations Manager",
+        "website": "http://landolakes.com",
+                "startDate": "2015-05-01",
+        "highlights": [
+            "Managing four retail merchandising teams for the company’s highest selling region (99MM pounds of butter)",
+            "Establishing priorities and projects, planning and booking weekly travel",
+            "Communicating priorities, assigning projects and quotas, and relaying information to teams",
+            "Auditing and training individual representatives, documenting and providing feedback to supervisors",
+            "Analyzing data and providing recaps of value-added insights to Customer Development Managers"
+        ]
+    }, {
+        "company": "Land O' Lakes, Inc.",
+        "position": "Sales Analyst MBA Intern",
+        "website": "http://landolakes.com",
+                "startDate": "2014-02-01",
+        "endDate": "2015-05-01",
+        "highlights": [
+			"Analyzed and interpreted data for projects on a cross-functional team, assisting in the creation of the sales story",
+			"Remodeled weekly reports of current and historical data",
+			"Created top-line comparative dashboards customized for individual manager analysis and strategic planning",
+			"Evaluated data discovery tool, provided analysis, and presented to decision makers for recommendation"
+        ]
+    }, {
+        "company": "City of Fayetteville Prosecutor's Office",
+        "position": "Legal Assistant",
+        "website": "http://www.fayetteville-ar.gov/573/City-Prosecutor",
+                "startDate": "2012-09-01",
+        "endDate": "2014-02-01",
+        "highlights": [
+			"Collected criminal histories, police reports, prior offenses, driving records, and compiled court case documents",
+			"Managed office appointments and scheduling, notarized complainants, provided direction to appropriate resources",
+			"Facilitated classified documents and evidence between court, police department, and prosecutor’s office"
+
+        ]
+    }, {
+        "company": "The Joplin Globe",
+        "position": "Advertising Consultant",
+        "website": "http://www.joplinglobe.com/",
+                "startDate": "2012-03-01",
+        "endDate": "2012-06-01",
+        "highlights": [
+			"Met with potential clients, assessed advertising needs, and created customized proposals",
+			"Cultivated prospective clients through networking events and cold calling",
+			"Designed, wrote and edited copy, and collaborated with graphic designers for ads in print and online"
+        ]
+    },
+    {
+        "company": "Freeman Hospital and Health Systems",
+        "position": "Financial Counselor",
+        "website": "https://www.freemanhealth.com/",
+                "startDate": "2010-09-01",
+        "endDate": "2012-01-01",
+        "highlights": [
+			"Managed patient account information, coordinated insurance benefits with hospital services, secured payments",
+			"Ensured correct diagnoses and tests ordered for insurance and hospital compliance",
+			"Monitored price quoting for all hospital outpatient procedures"
+        ]
+    }],
+    "education": [{
+        "institution": "University of Arkansas",
+        "area": "Business Administration with focus in Finance",
+        "studyType": "Master's",
+        "startDate": "2014-01-01",
+        "endDate": "2015-05-01",
+        "gpa": "3.3"
+    },{
+        "institution": "Missouri Southern State University",
+        "area": "Health Science with double minor in Business and French",
+        "studyType": "Bachelor's",
+        "startDate": "2006-08-01",
+        "endDate": "2010-05-01",
+        "gpa": "3.3"
+    }],
+    "skills": [{
+        "name": "Technologies",
+        "keywords": [
+            "Advanced in Microsoft (Excel, Powerpoint, Word, Outlook)",
+            "Retail Link",
+            "Shiloh",
+            "HTML",
+            "CSS"
+        ]
+    },{
+        "name": "Certifications",
+        "keywords": [
+            "Delta Associates Bronze Business Insights"
+        ]
+    },
+    {
+        "name": "Academic Interests",
+        "keywords": [
+            "Walton MBA Ambassador",
+            "MBA Student Advisory Board",
+            "Finance Club",
+            "Climbing Club"
+        ]
+    },
+    {
+        "name": "Hobbies",
+        "keywords": [
+            "Certified Yoga Instructor",
+            "Marathon Runner",
+            "Rock Climbing Competitor",
+            "Notary Public"
+        ]
+    }],
+    "languages": [{
+        "language": "English",
+        "fluency": "Native speaker"
+    }]
+}
