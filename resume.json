@@ -2,9 +2,9 @@
     "basics": {
         "name": "Shannon Saylor",
         "label": "Regional Operations Manager",
-        "picture": "http://i.imgur.com/j1M5qLO.jpg",
+        "picture": "http://i.imgur.com/ApjyUq4.jpg",
         "email": "shansaylor@gmail.com",
-        "phone": "(252) 544-7171",
+        "phone": "(252) 544-7141",
         "website": "http://shangriffin.github.io",
         "location": {
             "address": "445 Artisan Way",
@@ -25,8 +25,8 @@
         },
         {
             "network": "Twitter",
-            "username": "dggriffin",
-            "url": "https://twitter.com/GriffinGreyson"
+            "username": "shansaylor",
+            "url": "https://twitter.com/shansaylor"
         }]
     },
     "work": [{
